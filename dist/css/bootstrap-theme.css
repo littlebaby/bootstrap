@@ -48,7 +48,7 @@
 .btn-default:hover,
 .btn-default:focus {
   background-color: #e0e0e0;
-  background-position: 0 -15px;
+  background-position: 1 -15px;
 }
 .btn-default:active,
 .btn-default.active {
